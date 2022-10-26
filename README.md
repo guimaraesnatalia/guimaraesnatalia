@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Natalia Guimaraes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guimaraesnatalia&color=yellow" alt="Profile views" /> </p>
 
-- 👩🏻‍💻 Mid-Level System Analyst
+- 👩🏻‍💻 Software Developer
 
-- 💼 I’m currently working at Topos Informática and located in Secretaria de Estado da Administração de Sergipe
+- 💼 I’m currently working at Globo
 
 - 📚 Computer Science Student
 
@@ -13,7 +13,6 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -24,6 +23,8 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
 ![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
