@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Software Engineer<br><br>💼 I’m currently working at Globo<br><br>📚 Computer Science Graduate<br><br>☕️ I love coffee
+👩🏻‍💻 Software Engineer<br><br>💼 I’m currently working at Globo<br><br>📚 Computer Science Graduate<br><br>📚 Postgraduate student in Software Engineering<br><br>☕️ I love coffee
 
 
 ## 🌐 Socials:
